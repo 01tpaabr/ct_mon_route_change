@@ -18,10 +18,6 @@ The dataset consists of traceroute measurements between various source-destinati
 
 The main difficulty stems from the severe class imbalance (53:1 ratio) combined with noisy RTT data that naturally varies even when routes remain stable. Additionally, different network paths exhibit different baseline behaviors, requiring features that generalize across heterogeneous routes.
 
-## Repository Structure
-
-The repository contains two notebooks. The file `rnp-route-change-detection-analysis.ipynb` is a cleaned, documented version suitable for presentation and reference. The original `explore-rnp-data-challenge-2025.ipynb` contains the working exploration and can be removed if not needed.
-
 ## Installation and Usage
 
 The code requires Python 3.10 or higher with standard data science libraries. Install dependencies with:
