@@ -1,8 +1,10 @@
 # RNP CT-MON Route Change Detection Challenge
 
 Second place solution for the RNP Data Challenge 2025, focused on detecting network route changes in traceroute data from Brazil's national research and education network.
+
 https://rnp.br/noticias/ct-mon-divulga-vencedores-do-segundo-data-challenge
-Team: Thiago Andrade (01tpaabr) Bruno Llacer (https://github.com/brunoCCOS) Daniel Sadoc (https://github.com/danielsadoc)
+
+Team: Thiago Andrade (https://github.com/01tpaabr) Bruno Llacer (https://github.com/brunoCCOS) Daniel Sadoc (https://github.com/danielsadoc)
 
 ## Overview
 
